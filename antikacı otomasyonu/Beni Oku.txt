@@ -1,0 +1,2 @@
+Programı kurup çalıştırabilirsiniz.
+Lütfen Wisual studio 2017 sürümünü kullanınız.
